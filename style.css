@@ -1,0 +1,59 @@
+.page {
+    padding-left:20%;
+    padding-right:20%;
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-family: Roboto;
+    text-align: justify;
+    justify-content: baseline;
+}
+
+
+.nameblock,.profileblock,.workexpblock,.skillsblock,.educationblock {
+    padding:10px;
+    border-bottom: 2px solid #000;;
+
+}
+
+.name {
+    font-size: 50px;
+}
+
+.jobtitle{
+    font-size: 30px;
+}
+
+.contactdetails{
+    float:right;
+}
+
+
+.profilelabel, .workexplabel,.skillslabel,.educationlabel {
+    font-size: 35px;
+    width:30%;
+    position:relative;
+    padding:2%;
+    float:left;
+}
+
+.profiletext, .workexptext, .skillstext, .educationtext {
+    position:relative;
+    margin-left: 35%;
+}
+
+
+.companyname,.school {
+    font-size: 20px;
+    font-style:initial;
+    padding:3px;
+
+}
+
+.timeperiod,.degree {
+    font-style: italic;
+
+}
+
+.details {
+    padding:3px;
+}
